@@ -1,1 +1,1 @@
-# independent-project
+# Independent Project: Site Location Problem
